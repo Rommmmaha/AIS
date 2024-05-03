@@ -1,0 +1,6 @@
+id,name
+1,Sales
+2,Marketing
+3,IT
+4,Finance
+5,Human Resources

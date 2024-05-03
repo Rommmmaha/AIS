@@ -1,0 +1,5 @@
+employeeId,amount,reason
+1,1000.0,Excellent performance
+3,800.0,Special project
+2,500.0,Team contribution
+4,700.0,New client acquisition

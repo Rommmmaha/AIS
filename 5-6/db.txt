@@ -1,0 +1,31 @@
+Employee:John Doe,Manager
+Employee:Jane Smith,Cashier
+Employee:Michael Johnson,Mechanic
+Employee:Emily Wilson,Attendant
+Employee:David Thompson,Attendant
+
+Car:Toyota,Camry,Gasoline
+Car:Honda,Civic,Gasoline
+Car:Ford,F-150,Diesel
+Car:Tesla,Model 3,Electric
+Car:Nissan,Leaf,Electric
+Car:Chevrolet,Silverado,Diesel
+Car:BMW,X5,Diesel
+Car:Hyundai,Sonata,Gasoline
+Car:Volkswagen,Jetta,Diesel
+Car:Kia,Niro,Hybrid
+
+FuelStation:ABC Gas Station,Gasoline;2.75,Diesel;3.25,Premium;3.50
+FuelStation:XYZ Fuel Stop,Gasoline;2.70,Diesel;3.20,Premium;3.45,Electric;0.25
+FuelStation:Green Energy,Electric;0.20
+
+Service:John Doe,Toyota,Gasoline,15.0,41.25
+Service:Jane Smith,Honda,Gasoline,10.0,27.50
+Service:Michael Johnson,Ford,Diesel,25.0,81.25
+Service:Emily Wilson,Tesla,Electric,50.0,10.00
+Service:David Thompson,Nissan,Electric,30.0,6.00
+Service:John Doe,Chevrolet,Diesel,20.0,65.00
+Service:Jane Smith,BMW,Diesel,18.0,58.50
+Service:Michael Johnson,Hyundai,Gasoline,12.0,33.00
+Service:Emily Wilson,Volkswagen,Diesel,16.0,52.00
+Service:David Thompson,Kia,Hybrid,8.0,22.00
